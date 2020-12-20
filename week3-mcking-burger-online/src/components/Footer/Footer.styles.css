@@ -1,0 +1,28 @@
+.footer{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+  left:0;
+  width: 100%;
+  height: 200px;
+  color: white; 
+  background-color: #ab0012;
+}
+
+.order{
+  width: 150px;
+  height:30px;
+  margin-top: 20px;
+  background-color: goldenrod;
+}
+
+.currentPrice{
+  margin-bottom: 20px;
+}
+
+.meatItems{
+  margin-bottom: 10px
+}

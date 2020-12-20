@@ -1,0 +1,16 @@
+#movies-table{
+  width: 100%;
+  font-size: 15px;
+}
+
+#movies-table thead{
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+#movies-table td{
+  padding-right:30px;
+  padding-left:30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
